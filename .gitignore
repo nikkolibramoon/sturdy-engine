@@ -26,5 +26,4 @@ var/
 # Logs
 *.log
 
-# Data
-data/processed/
+
