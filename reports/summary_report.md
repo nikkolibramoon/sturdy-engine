@@ -69,8 +69,7 @@ This analysis provides valuable insights into customer behavior, highlighting sp
 
 ## 8. References
 
-- [Dataset Source](URL to the dataset source)
-- [Additional Resources](Links to any other relevant resources)
+- [Dataset Source] https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset?resource=download
 
 ---
 
