@@ -24,7 +24,7 @@ def test_analyze_data(sample_data):
     result = analyze_data(sample_data)
     expected = sample_data.describe()
     
-    # Check if the result is a DataFrame and has the same content as the expected DataFrame
+
     assert isinstance(result, pd.DataFrame)
     pd.testing.assert_frame_equal(result, expected)
 

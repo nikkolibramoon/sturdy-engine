@@ -23,7 +23,7 @@ def test_clean_data():
     cleaned_df = clean_data(df)
 
     assert cleaned_df.isnull().sum().sum() == 0
-    assert len(cleaned_df) == 2  # Only 2 rows should remain after dropping NAs
+    assert len(cleaned_df) == 2  
 
 if __name__ == "__main__":
     pytest.main()
