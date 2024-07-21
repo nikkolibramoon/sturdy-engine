@@ -49,7 +49,7 @@ The summary statistics of the cleaned data provide an overview of key metrics:
 
 The distribution of total spend among customers is visualized below:
 
-![Total Spend Distribution](reports/figures/spend_distribution.png)
+![spend_distribution](https://github.com/user-attachments/assets/85772779-0661-4d2a-be6f-47292b56bb8e)
 
 This histogram shows the frequency distribution of total spend, indicating the spread and central tendencies in customer expenditure.
 
