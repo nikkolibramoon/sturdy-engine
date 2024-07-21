@@ -1,6 +1,7 @@
 # E-commerce Customer Behavior Analysis
 
-This project analyzes customer behavior data from an e-commerce platform. It includes data preparation, analysis, and visualization steps to provide insights into customer spending patterns, product preferences, and overall satisfaction levels.
+This project analyzes customer behavior data from an e-commerce platform. 
+It includes data preparation, analysis, and visualization steps to provide insights into customer spending patterns, product preferences, and overall satisfaction levels.
 
 ## Table of Contents
 
